@@ -1,7 +1,7 @@
 # Lab4_Starter
 
 For this section of the lab we would like you to:
-1. **Clone or fork this repo into a second Github repo**
+1. **Fork this repo or clone it into your own Github repo**
     1. Make sure you are NOT trying to push your fixed code to the starter code repo. You will not be able to create a new branch and will lose points.
 3. Create an new branch named `lab4-fix`. to fix the buggy code in the scripts folder.
 5. After you have fixed the buggy code, we would like you to create a pull request to the main branch which will cause the pipeline with automated tests to run.
