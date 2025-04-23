@@ -2,10 +2,11 @@
 
 For this section of the lab we would like you to:
 1. Fork or clone this repo **into a separate repository**
-    1. Make sure you are NOT trying to push your fixed code to the starter code repo. You will not be able to create a new branch and will lose points.
+    1. Make sure you are NOT trying to push your fixed code to the starter code repo.
 3. Create an new branch named `lab4-fix`. to fix the buggy code in the scripts folder.
 5. After you have fixed the buggy code, we would like you to create a pull request to the main branch **of your repository not ours** which will cause the pipeline with automated tests to run.
-    1. Any pull request made to the starter repository will be deleted.
+    1. Make sure you are creating a pull request to the correct repo.
+    2. Any pull request made to the starter repository will be deleted.
 7. If all is done correctly, you will get a green checkmark saying ready to merge! Please take a screenshot of this checkmark. (Make sure your github username is somewhere in the screenshot)
 
 ### Details
