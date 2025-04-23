@@ -1,8 +1,8 @@
 # Lab4_Starter
 
 For this section of the lab we would like you to:
-1. Click "use this template" in the upper left corner of the repo to clone this repo **into a separate repository**
-    1. DO NOT fork the repository
+1. Click "use this template" in the upper right corner of the repo to clone it **into a separate repository**
+    1. **DO NOT** fork the repository
     2. Make sure you are NOT trying to push your fixed code to the starter code repo.
 3. Create an new branch named `lab4-fix`. to fix the buggy code in the scripts folder.
 5. After you have fixed the buggy code, we would like you to create a pull request to the main branch **of your repository not ours** which will cause the pipeline with automated tests to run.
