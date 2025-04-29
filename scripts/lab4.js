@@ -34,7 +34,6 @@ function discountPrices(prices, discount) {
     for(let i = 0; i < length; i++) {
         let discountedPrice = prices[i] * (1 - discount);
         discounted.push(discountedPrice);
-        //changing something to push changes again 
     }
 
     return discounted;
